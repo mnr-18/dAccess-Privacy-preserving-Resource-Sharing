@@ -4,10 +4,10 @@
 - [Advertise an object](#advertise)
 - [Request access](#request)
 
-## Advertise an object
+## Advertise 
 ![SequenceDiagAdvertise](https://user-images.githubusercontent.com/75406127/106031414-7cc67180-608c-11eb-82b3-185d7ab2819f.jpg)
 
-## Request access
+## Request 
 ![SequenceDiag](https://user-images.githubusercontent.com/75406127/106031457-88b23380-608c-11eb-8563-417d3dd1af2f.jpg)
 
 # Required tools
