@@ -4,7 +4,9 @@ Proof-of-concept implementation of a privacy preserving resource sharing system 
 - [Advertise an object](#advertise)
 - [Request access](#request)
 
-## Advertise 
+## Advertise
+A_o: resource owner
+B_r: resource requester
 ![SequenceDiagAdvertise](https://user-images.githubusercontent.com/75406127/106031414-7cc67180-608c-11eb-82b3-185d7ab2819f.jpg)
 
 ## Request 
