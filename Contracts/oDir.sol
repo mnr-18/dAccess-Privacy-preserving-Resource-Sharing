@@ -17,7 +17,7 @@ contract oDir{
     mapping(bytes32 => objDescription) public objects;
     //objDescription[] public objects; //array of objects
     
-    address public BA; //owner of the oDir contract
+    address payable BA; //owner of the oDir contract
     address public Adj;
     //uint index;
     
