@@ -10,14 +10,14 @@ oDir Contract:
 ---------------
 Oid: "0xCBD8F600337F119112584C2A38BDE7166410A84277B40D5BD9DD58AE94B24371"
 pid: "Abcd1234"
-ODesc: "Tom and Jerry is an American animated franchise"
+ODesc: "Tom's Trip to Moon is a story of a child who dreams to travel to moon someday."
 address_objACC: "<include_here_the_address_of_objACC_contract>"
 abi_objACC: "<include_here_the_abi_of_objACC_contract>"
 address_objPropRep: "<include_here_the_address_of_objPropRep_contract>"
 abi_objPropRep: "<include_here_the_abi_of_objPropRep_contract>"
 
 Input for registerResource function call:
-"0xCBD8F600337F119112584C2A38BDE7166410A84277B40D5BD9DD58AE94B24371", "Abcd1234", "Tom and Jerry is an American animated franchise", "<address_objACC>", "<abi_objACC>", "<address_objPropRep>", "<abi_objPropRep>"
+"0xCBD8F600337F119112584C2A38BDE7166410A84277B40D5BD9DD58AE94B24371", "Abcd1234", "Tom's Trip to Moon is a story of a child who dreams to travel to moon someday.", "<address_objACC>", "<abi_objACC>", "<address_objPropRep>", "<abi_objPropRep>"
 
 ---------
 objACC:
@@ -29,7 +29,7 @@ CzAJBgNVBAYTAkNOMQ8wDQYDVQQDDAZBQkMxMjMwHhcNMjAxMjE2MDM0MTIyWhcNMjExMjE2MDM0MTIy
 YxaRsPQjfUHNN1q9tK4acQDBccH+Mxn+VaIdRpdFUYi0F0TSV5iEkYNBeCfWTRS4RM/wv8KwVW0GTLuHyaqjfvipNhkII3yGDiIYzRZpSRVk/2mKehMNwGY7cHUzsFz7bforF0ORITmr6d1sClgagUisd0vs43fTx2cS00Qv0k3dmu16bRwI2uKldrgGH1BUNIjilvxq9ViS5xL03QddYVqNsjzyyigeOIEXlpnyHv9Rf8LYo04mzUs1kKD4TwMl
 bBZPkqlngNc5hsbRZv0CAwEAATANBgkqhkiG9w0BAQsFAAOCAgEABVkpv+DUvgCWMWtAk6W4G6EDomCt6VTHruP5FRvY7uruUOXZnfwz/lwuGVukALjrFB9ZJArkcgqHy8t2DyRG2KxP4tnFa5F19lfBmu3U9fT5lXDEp58YFn7d3z/xtAR7hy8IxD5e5njEomGfO2TKcPUFHbg4ml9ceMIvn4KvYu5pvr6dqQ6s7ERk9m+8bBiDupS6iB0zIABz
 UyovhHBvPHPUs0pZbX1iOXxVjseHa3zPkKzvD0mURjhuTfH5ENdLiHUNtr+3vwleJT9VDOIN4SM5NFDvP9NRsZOpLequ5qxSvSes8t4PqL1w1J4P+/qKtUHlBFyI3Z1B9vh1sFUpOTa8HYnltao3BoakpZrLcwiGQTWYhbGVXj7x7f5wlr+yTEcddswgvvYORlXxNPNnlPCdVE7imzjNXMdNIcuhSPa5EZDOF7DUOti4pAVF41Rr8CwPtb5ZyDfp
-GvXik5Qwy4A2ILJZJ06oVu4m/TIuD52rRS3cOJleJrclWlv54IpHn24cI/Z3bQVQ3hyUxUYAaMH1o7GRHbj0SCk5Eo4tXaFUsQv+nyaR9xr4iQ+d6IKlwA5I/na+47QeQuJj18g9Y+4zS6jguCKfBNI8/gTqs36Reyws13D0PRh/w9ajw3jtZ/yl/SOMB4Is2EnMj8+cA3W4QYeNBnnKOEevVziDRUI=", "age>6 and gender=(male or female) or club_member=club_1"
+GvXik5Qwy4A2ILJZJ06oVu4m/TIuD52rRS3cOJleJrclWlv54IpHn24cI/Z3bQVQ3hyUxUYAaMH1o7GRHbj0SCk5Eo4tXaFUsQv+nyaR9xr4iQ+d6IKlwA5I/na+47QeQuJj18g9Y+4zS6jguCKfBNI8/gTqs36Reyws13D0PRh/w9ajw3jtZ/yl/SOMB4Is2EnMj8+cA3W4QYeNBnnKOEevVziDRUI=", "age>6 and preference=(local or international) or club_member=club_2"
 
 ---------
 objPropRep:
