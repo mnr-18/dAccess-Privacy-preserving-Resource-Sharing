@@ -10,7 +10,7 @@ contract ObjACC{
     mapping(bytes32 => Access_control) public acc;
     //Access_control[] public objAC; 
     
-    address public owner; //owner of the object
+    address payable owner; //owner of the object
     address public objPropRep_address;
     address public oDir;
     
@@ -50,7 +50,7 @@ contract ObjACC{
         objPropRep_address = _PropRep;
     }
 	
-	function selfDestruct() onlyBA public
+	function selfDestruct() onlyOwner public
 	{
 			selfdestruct(owner);
 	}
