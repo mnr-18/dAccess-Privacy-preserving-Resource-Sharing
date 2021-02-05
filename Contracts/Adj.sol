@@ -2,7 +2,7 @@ pragma solidity ^0.5.15;
 
 contract Adj{
     //works as judge to detect misbehaviour
-    address public BA; //owner of the contract
+    address payable BA; //owner of the contract
     
     struct Misbehavior
 	{
