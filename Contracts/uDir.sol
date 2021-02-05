@@ -35,10 +35,10 @@ contract uDir{
     
     function deleteUser (string memory _pk) onlyAdjAuth public{
 		for (uint i=0; i<users.length; i++){
-			if (users[_index].pk == _pk){
-				delete users[_index].pid;
-				delete users[_index].pk;
-				delete users[_index].cert_pk;
+			if (users[i].pk == _pk){
+				delete users[i].pid;
+				delete users[i].pk;
+				delete users[i].cert_pk;
 			}
 		}
     }
