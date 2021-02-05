@@ -10,7 +10,7 @@ contract ObjPropRep{
     mapping(bytes32 => Properties) public oProp;
     //Access_control[] public objAC; 
     
-    address public owner; //owner of the object
+    address payable owner; //owner of the object
     address public objACC_address;
     address public oDir;
     
